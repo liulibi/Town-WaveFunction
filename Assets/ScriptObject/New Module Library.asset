@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d26d16ce0330e248a8f59d8b23c6615, type: 3}
+  m_Name: New Module Library
+  m_EditorClassIdentifier: 
+  importedModules: {fileID: 919132149155446097, guid: 387039c294720a74abb2d81f8f11a8ee, type: 3}
+  meshes: []
+  Material: {fileID: 2100000, guid: cfb5ded7e3d86164693391d25dba46b9, type: 2}
